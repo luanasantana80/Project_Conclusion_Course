@@ -1,0 +1,53 @@
+body{
+    background: #F4F9FC;
+}
+
+nav{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background: #5e5e68;
+    height: 25vh;
+    top: 0;
+}
+
+.logo__img{
+    width: 6rem;
+    height: 6rem;
+}
+    
+
+.list__itens{
+    font-size: 1em;
+    color: #CACACA;
+    text-decoration: none;
+    transition: 0.3s;
+}
+
+.list__itens:hover {
+    font-size: 1.3em;
+    opacity: 0.7;
+    color: #CACACA;
+    font-weight: 800;
+}
+
+
+.list{
+    list-style: none;
+    display: flex;
+}
+
+.list li{
+    font-family: 'Roboto Slab', serif;
+    letter-spacing: 5px;
+    margin-left: 20px;
+    
+}
+
+@media screen and
+(max-width: 768px) {
+    .logo__img{
+        width: 5rem;
+        height: 5rem;
+    }
+}

@@ -1,0 +1,44 @@
+.superior__secao__container__mensagem{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    white-space: nowrap;/*não quebra as palavras para baixo.*/ 
+    gap: 15px;/*Add um espaçamento apenas entre os itens e nao em todos os lados de um item*/
+    top: 25%;
+    font-weight: 700;
+    padding: 20px;
+    color: rgb(116, 116, 165);
+}
+
+.superior__secao__container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    white-space: nowrap;/*não quebra as palavras para baixo.*/ 
+    gap: 15px;/*Add um espaçamento apenas entre os itens e nao em todos os lados de um item*/
+    top: 25%;
+}
+
+
+main {
+    height: 63px;
+    color: #CACACA;
+    font-size: 20px;
+    padding: 10px 20px;
+}
+
+.superior__item {
+    font-size: 16px;
+    background-color: white;
+    border-radius: 20px;
+    padding: 8px 20px;
+    cursor: pointer;
+}
+
+.superior__item:hover {
+    color: black;
+    
+    background-color: #EDEEE9;
+    transition: .5s;
+}
+

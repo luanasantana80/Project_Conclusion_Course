@@ -1,0 +1,21 @@
+.rank{
+    font-size: 40px;
+    font-family: 'Noto Sans TC', sem serifa;
+    font-weight: bold;
+    font-weight: 700;
+    color: rgb(79, 95, 102);
+}
+
+.conteiner__inicio{
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+}
+
+.titulo__inicio{
+    font-size: 30px;
+    font-weight: bolder;
+    font-weight: 600;
+    color: rgb(103, 107, 122);
+    font-family: 'Oswald', sans-serif;
+}
