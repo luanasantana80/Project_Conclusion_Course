@@ -1,6 +1,5 @@
 **Repositório Projeto de Conclusão de Curso**
 
-![Exemplo de Imagem](https://exemplo.com/imagem.jpg)
 
 ## Descrição
 Bem-vindo ao repositório do "Projeto de Conclusão de Curso"! Este repositório contém o código-fonte de um projeto abrangente que marca o término de um curso. O projeto foi desenvolvido para destacar as habilidades e o conhecimento adquiridos durante o curso, proporcionando uma demonstração prática de vários conceitos.
