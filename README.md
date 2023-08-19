@@ -16,12 +16,12 @@ Siga as etapas abaixo para entender e utilizar o projeto:
 
 1. Clone este repositório em sua máquina local usando o comando:
    ```
-   git clone https://github.com/luanasantana80/Project_Conclusion_Course.git
+   git clone https://github.com/luanasantana80/Project_Conclusion_Faculdade_TCC.git
    ```
 
 2. Navegue até o diretório do projeto:
    ```
-   cd Project_Conclusion_Course
+   cd Project_Conclusion_Faculdade_TCC
    ```
 
 3. Revise o código-fonte e a documentação acompanhante para entender a estrutura do projeto e detalhes de implementação.
